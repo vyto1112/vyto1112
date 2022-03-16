@@ -31,12 +31,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=vyto1112&theme=algolia&column=7&no-frame=true" />
     </p>
    </td>
-   <td width="50%" valign="top">
-    <h3 align="center"> Most used languages</h3>
-     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyto1112&theme=outrun&column=7&no-frame=true"/>
-     </p>
-  </td>
       </table></div>
      <br>
 
