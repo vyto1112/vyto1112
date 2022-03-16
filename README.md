@@ -1,10 +1,11 @@
-# Hi there 👋 , I'm Devito!
-Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
+# Hi Friend👋 , I'm Devito!
+Currently studying at Ahmad Dahlan University and I love learn new thing in programming such as Javascript, C++, C , Python.  
 
 👻About me👻
   
  Introduce my name is Devito Aldiga Fitra usually called Vito.
  I was born in Lampung, I am a small child who wants to know new things.
+ My hobby is play skateboard and footbal and play game Mobile Legends
  I am currently a student. I majored in Informatics Engineering.
   
 <!-- 
