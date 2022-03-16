@@ -1,7 +1,6 @@
 <img src="https://camo.githubusercontent.com/3e2ea701e0014e69cd14ec62c14f569a3ff9bff9/68747470733a2f2f63646e2e6c6f776769662e636f6d2f66756c6c2f366561653766643762636365326335612d736e6170652d6769662d6f6e2d74756d626c722e676966" width=80%>
 
-# Hi Friend 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">, I'm Devito!
+# Hi Friend <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">, I'm Devito!
 
 👻About me👻
 <a href="https://instagram.com/_devitoalftr_" target="_blank"><img src="https://img.shields.io/badge/@_devitoalftr_-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
