@@ -1,4 +1,7 @@
-# 👻About me👻
+# Hi there 👋 , I'm Bagus!
+Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
+
+👻About me👻
   
  Introduce my name is Devito Aldiga Fitra usually called Vito.
  I was born in Lampung, I am a small child who wants to know new things.
