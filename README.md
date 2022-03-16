@@ -3,7 +3,7 @@
 
 👻About me👻
 
-![Instagram Follow](https://img.shields.io/instagram/https://www.instagram.com/devitoalftr/)
+![Instagram Follow](/https://www.instagram.com/devitoalftr/)
 ![GitHub followers](https://img.shields.io/github/followers/vyto1112?style=social)
   
   
