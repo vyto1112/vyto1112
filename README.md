@@ -42,6 +42,13 @@
       </table></div>
      <br>
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/4res5mhonwdralpjel5embsau?si=7396f7c8527e4365)
+
+---
+
+
 <!-- <p align="center">
   <a href="https://github.com/vyto1112"><img src="https://github-profile-trophy.vercel.app/?username=vyto1112&theme=radical&margin-w=25&no-bg=true&no-frame=true" /><a>
 </p>
