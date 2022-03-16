@@ -18,7 +18,7 @@
 - 🔭 I’m currently studying at Ahmad Dahlan University
 - 🌱 I’m currently learning about DevOps C++ / C and JavaScript
 - 👯 I’m looking to collaborate with other developer
-- 🤔 I’m looking for help with th master of programming. hehe </br>
+- 🤔 I’m looking for help with the master of programming. hehehe </br>
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="mailto:aldialdiga@gmail.com">Email me!</a>  </br>
 
