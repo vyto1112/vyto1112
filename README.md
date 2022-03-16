@@ -10,14 +10,8 @@
  I was born in Lampung, I am a child who wants to know new things.
  My hobby is play skateboard and football and play game Mobile Legends
  I am currently a student. I majored in Informatics Engineering.
-  
-<!-- 
-<p><br>👻I'am vyto👻</br>
-<span><p>We are An0nym0us...☠️</p></span>
-<p>We are legion...................☠️</p>
-<p>We do not forgive................☠️</p>
-<p>We do not forget............☠️</p>
-<p>Expect us.................!☠️</p> -->
+ 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 🔭 I’m currently studying at Ahmad Dahlan University
 - 🌱 I’m currently learning about DevOps C++ / C and JavaScript
