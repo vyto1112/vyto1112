@@ -15,8 +15,6 @@
 <p>We do not forget............☠️</p>
 <p>Expect us.................!☠️</p> -->
 
-*vyto1112/vyto1112* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
 - 🔭 I’m currently studying at Ahmad Dahlan University
 - 🌱 I’m currently learning about DevOps C++ / C and JavaScript
 - 👯 I’m looking to collaborate with other developer
