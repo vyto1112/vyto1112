@@ -17,7 +17,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="mailto:aldialdiga@gmail.com">Email me!</a>  </br>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="530">
+<img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="330">
 
 <!-- [![Nyancodeid's github stats](https://github-readme-stats.vercel.app/api?username=vinast)](https://github.com/vinast/vinast) -->
 <div align="center">
