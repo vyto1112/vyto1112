@@ -3,8 +3,8 @@
 👻About me👻
   
  Introduce my name is Devito Aldiga Fitra usually called Vito.
- I was born in Lampung, I am a small child who wants to know new things.
- My hobby is play skateboard and footbal and play game Mobile Legends
+ I was born in Lampung, I am a child who wants to know new things.
+ My hobby is play skateboard and footbaLl and play game Mobile Legends
  I am currently a student. I majored in Informatics Engineering.
   
 <!-- 
