@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with th master of programming. hehe </br>
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="mailto:aldialdiga@gmail.com">Email me!</a>  </br>
--->
 
 ## Hello World, I'm Devito Aldiga Fitra 👋
 
