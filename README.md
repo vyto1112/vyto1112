@@ -2,8 +2,10 @@
 # Hi Friend👋 , I'm Devito!
 
 👻About me👻
-![Instagram Follow](https://img.shields.io/twitter/follow/devitoalftr?style=social)
+
+![Instagram Follow](https://img.shields.io/instagram/follow/devitoalftr?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/vyto1112?style=social)
+  
   
  Introduce my name is Devito Aldiga Fitra usually called Vito.
  I was born in Lampung, I am a child who wants to know new things.
