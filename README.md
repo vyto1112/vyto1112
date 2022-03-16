@@ -26,11 +26,6 @@ Currently studying at Ahmad Dahlan University majoring in informatics engineerin
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 />
 </p>
 
-### Let's connect!
-<p>
-    <a href="https://www.instagram.com/devitoalftr/" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a>
-</p>
-
 <!--
 *vyto1112/vyto1112* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
