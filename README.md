@@ -49,26 +49,6 @@ Here are some ideas to get you started:
 <p>We do not forget............☠️</p>
 <p>Expect us.................!☠️</p> -->
 
-## Hello World, I'm Devito Aldiga Fitra 👋
-
-<!-- [![Nyancodeid's github stats](https://github-readme-stats.vercel.app/api?username=vinast)](https://github.com/vinast/vinast) -->
-<div align="center">
-<table>
-   <td width="50%" valign="top">
-    <h3 align="center"> GitHub Status<h3>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=vinast&theme=algolia&column=7&no-frame=true" />
-    </p>
-   </td>
-   <td width="50%" valign="top">
-    <h3 align="center"> Most used languages</h3>
-     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinast&theme=outrun&column=7&no-frame=true"/>
-     </p>
-  </td>
-      </table></div>
-     <br>
-  
 </p>
  -->
 <br>
