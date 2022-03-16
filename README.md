@@ -44,7 +44,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://giphy.com/gifs/rion-krby-rionkrby-cNf6AqY9L6adAywAqW)](https://open.spotify.com/user/4res5mhonwdralpjel5embsau?si=7396f7c8527e4365)
+[![Spotify](https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2017/04/spotify-iphone-screenshot-03.jpg?itok=ntbNLxIDW)](https://open.spotify.com/user/4res5mhonwdralpjel5embsau?si=7396f7c8527e4365)
 
 ---
 
