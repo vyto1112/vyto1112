@@ -36,3 +36,13 @@ Currently studying at Ahmad Dahlan University majoring in informatics engineerin
 </p>
 
 <!--
+*vyto1112/vyto1112* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+    - 🔭 I’m currently working on a ton of side project
+    - 🌱 I’m currently learning DevOps C++ / C And JavaScript
+    - 👯 I’m looking to collaborate with other developer. </br>
+    - 🤔 I’m looking for help with master of programming. hehehe </br>
+    - 💬 Ask me about anything.</br>
+    - 📫 How to reach me: <a href=aldialdiga@gmail.com">Email me!</a>  </br>
+    - ⚡ Fun fact: I like play skateboard and football and play game Mobile Legends</br>
+-->
