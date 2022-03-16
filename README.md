@@ -3,7 +3,7 @@
 
 👻About me👻
 <a href="https://instagram.com/_devitoalftr_" target="_blank"><img src="https://img.shields.io/badge/@_devitoalftr_-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-[![GitHub: Mohit Patil](https://img.shields.io/github/followers/vyto1112?label=Mohitp98&style=social)](https://github.com/vyto1112)
+[![GitHub: Mohit Patil](https://img.shields.io/github/followers/vyto1112?label=vyto1112&style=social)](https://github.com/vyto1112)
    
  Introduce my name is Devito Aldiga Fitra usually called Vito.
  I was born in Lampung, I am a child who wants to know new things.
