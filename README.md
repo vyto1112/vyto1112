@@ -1,10 +1,11 @@
+<img src="https://camo.githubusercontent.com/3e2ea701e0014e69cd14ec62c14f569a3ff9bff9/68747470733a2f2f63646e2e6c6f776769662e636f6d2f66756c6c2f366561653766643762636365326335612d736e6170652d6769662d6f6e2d74756d626c722e676966" width=80%>
 # Hi Friend👋 , I'm Devito!
 
 👻About me👻
   
  Introduce my name is Devito Aldiga Fitra usually called Vito.
  I was born in Lampung, I am a child who wants to know new things.
- My hobby is play skateboard and footbaLl and play game Mobile Legends
+ My hobby is play skateboard and football and play game Mobile Legends
  I am currently a student. I majored in Informatics Engineering.
   
 <!-- 
