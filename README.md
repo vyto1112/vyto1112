@@ -16,6 +16,20 @@ Currently studying at Ahmad Dahlan University and I love learn new thing in prog
 <p>We do not forget............☠️</p>
 <p>Expect us.................!☠️</p> -->
 
+### Stats:
+<details>
+ <summary><strong>What i am learning/working on these days</strong></summary>
+    - 🔭 I’m currently working on RPA </br>
+    - 🌱 I’m currently learning Python,SwiftUI and UIKit </br>
+    - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
+    - 🤔 I’m looking for help with master of programming. hehe </br>
+    - 💬 Ask me about anything.</br>
+    - 📫 How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
+    - 😄 Pronouns: He/Him </br>
+    - ⚡ Fun fact: ... </br>
+</details>
+<p>
+
 ## Hello World, I'm Devito Aldiga Fitra 👋
 
 <!-- [![Nyancodeid's github stats](https://github-readme-stats.vercel.app/api?username=vinast)](https://github.com/vinast/vinast) -->
