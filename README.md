@@ -8,8 +8,7 @@
    
  Introduce my name is Devito Aldiga Fitra usually called Vito.
  I was born in Lampung, I am a child who wants to know new things.
- My hobby is play skateboard and football and play game Mobile Legends
- I majored in Informatics Engineering.
+ My hobby is play skateboard and football and play game Mobile Legends.
 
 - 🔭 I’m currently studying at Ahmad Dahlan University
 - 🌱 I’m currently learning about DevOps C++ / C and JavaScript
@@ -18,7 +17,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="mailto:aldialdiga@gmail.com">Email me!</a>  </br>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="530">
 
 <!-- [![Nyancodeid's github stats](https://github-readme-stats.vercel.app/api?username=vinast)](https://github.com/vinast/vinast) -->
 <div align="center">
