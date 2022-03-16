@@ -1,5 +1,4 @@
 # Hi Friend👋 , I'm Devito!
-Currently studying at Ahmad Dahlan University and I love learn new thing in programming such as Javascript, C++, C , Python.  
 
 👻About me👻
   
