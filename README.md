@@ -1,32 +1,4 @@
 <img src="https://camo.githubusercontent.com/3e2ea701e0014e69cd14ec62c14f569a3ff9bff9/68747470733a2f2f63646e2e6c6f776769662e636f6d2f66756c6c2f366561653766643762636365326335612d736e6170652d6769662d6f6e2d74756d626c722e676966" width=80%>
-### Hi Friend 👋
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/50107558/70987321-387b4a80-20f2-11ea-94e0-9a1078e14e37.png" width="154"></center>
-  <h1 align="center">I'M DEVITO ALDIGA FITRA</h1>
-  <p align="center">Welcome to my github. Enjoyy!!!<p>
-<!--   <p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux_-blue">&#160<img src="https://img.shields.io/badge/Tools-Docker_-green">&#160<img src="https://img.shields.io/badge/Code-JavaScript_-gold">&#160<img src="https://img.shields.io/badge/Shell-Bash_-orange">&#160<img src="https://img.shields.io/badge/Code-Make_-pink">&#160<img src="https://img.shields.io/badge/Cloud-Computing_-blue">&#160<img src="https://img.shields.io/badge/Code-C++_-yellow">&#160<img src="https://img.shields.io/badge/Code-C_-purple">&#160<img src="https://img.shields.io/badge/Framework-Bootstrap_-yellow">&#160<img src="https://img.shields.io/badge/Framework-ReactJS_-pink"></center> -->
-  
- <div align="center">
-  My Programming Language
-  <br><br>
-  <img src="https://img.shields.io/badge/javascript%20-yellow?&style=for-the-badge&logo=javaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash%20Shell%20-gray?&style=for-the-badge&logo=gnu-bash&logoColor=black"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c-teal?style=for-the-badge&logo=c&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/linux%20-darkgreen?style=for-the-badge&logo=linux&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Git-%23EA4335?&style=for-the-badge&logo=git&logoColor=white"/>
-  
-  <br><br>
-  My Programing Framework
-  <br><br>
-  <img src="https://img.shields.io/badge/React%20js-%23404d59.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%23404e97.svg?style=for-the-badge&logo=bootstrap&logoColor=teal"/>
-  <br><br></div>
-
-<br><br>
 
 ### Hi Friend <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">, I'm Devito!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyto1112" alt="vyto1112" /> <img src="https://img.shields.io/badge/Pronouns-He%2FHim-green" alt="pronouns: he/him" /> </p>
