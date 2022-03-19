@@ -35,7 +35,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2017/04/spotify-iphone-screenshot-03.jpg?itok=ntbNLxIDW)](https://open.spotify.com/user/4res5mhonwdralpjel5embsau?si=7396f7c8527e4365)
+[![Spotify]https://i.scdn.co/image/c64aa2cd23fee3b9b4a549888d5dca587276aeb1
 
 ---
 
