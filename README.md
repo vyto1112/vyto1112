@@ -14,14 +14,14 @@
  I was born in Lampung, I am a child who wants to know new things.
  My hobby is play skateboard and football and play game Mobile Legends.
 
-- 🔭 I’m currently studying at Ahmad Dahlan University <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
+- 🔭 I’m currently studying at Ahmad Dahlan University <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 - 🌱 I’m currently learning about DevOps C++ / C and JavaScript
 - 👯 I’m looking to collaborate with other developer
 - 🤔 I’m looking for help with the master of programming. hehehe </br>
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="mailto:aldialdiga@gmail.com">Email me!</a>  </br>
 
-<img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"> <!-- [![Nyancodeid's github stats](https://github-readme-stats.vercel.app/api?username=vyto1112)](https://github.com/vyto1112/vyto1112) -->
+<!-- [![Nyancodeid's github stats](https://github-readme-stats.vercel.app/api?username=vyto1112)](https://github.com/vyto1112/vyto1112) -->
 <div align="center">
 
 <table>
