@@ -14,7 +14,7 @@
  I was born in Lampung, I am a child who wants to know new things.
  My hobby is play skateboard and football and play game Mobile Legends.
 
-- 🔭 I’m currently studying at Ahmad Dahlan University
+- 🔭 I’m currently studying at Ahmad Dahlan University <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 - 🌱 I’m currently learning about DevOps C++ / C and JavaScript
 - 👯 I’m looking to collaborate with other developer
 - 🤔 I’m looking for help with the master of programming. hehehe </br>
