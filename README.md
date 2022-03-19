@@ -21,10 +21,9 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="mailto:aldialdiga@gmail.com">Email me!</a>  </br>
 
-<img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="330">
-
-<!-- [![Nyancodeid's github stats](https://github-readme-stats.vercel.app/api?username=vyto1112)](https://github.com/vyto1112/vyto1112) -->
+<img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"> <!-- [![Nyancodeid's github stats](https://github-readme-stats.vercel.app/api?username=vyto1112)](https://github.com/vyto1112/vyto1112) -->
 <div align="center">
+
 <table>
    <td width="50%" valign="top">
     <h3 align="center"> GitHub Status<h3>
