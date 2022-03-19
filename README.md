@@ -35,7 +35,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify]<https://www.bing.com/images/search?view=detailV2&ccid=C65HUvj5&id=3FF2D781F6F15E1F618152DB92A3E5E2B3A87CDE&thid=OIP.C65HUvj5RqFymlKQ9258ewHaHa&mediaurl=https%3a%2f%2fi.scdn.co%2fimage%2fc64aa2cd23fee3b9b4a549888d5dca587276aeb1&exph=640&expw=640&q=Rich+Brian+Dat+Stick&simid=608002657371511218&FORM=IRPRST&ck=2DF384889962343AEF1C1F7D0BA72473&selectedIndex=1>
+[![Spotify][https://www.bing.com/images/search?view=detailV2&ccid=C65HUvj5&id=3FF2D781F6F15E1F618152DB92A3E5E2B3A87CDE&thid=OIP.C65HUvj5RqFymlKQ9258ewHaHa&mediaurl=https%3a%2f%2fi.scdn.co%2fimage%2fc64aa2cd23fee3b9b4a549888d5dca587276aeb1&exph=640&expw=640&q=Rich+Brian+Dat+Stick&simid=608002657371511218&FORM=IRPRST&ck=2DF384889962343AEF1C1F7D0BA72473&selectedIndex=1]
 
 ---
 
