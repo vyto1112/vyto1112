@@ -7,6 +7,8 @@
 👻About me👻
 <a href="https://instagram.com/_devitoalftr_" target="_blank"><img src="https://img.shields.io/badge/@_devitoalftr_-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 [![Gmail](https://img.shields.io/badge/-aldialdiga-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aldialdiga@gmail.com)
+![GitHub followers](https://img.shields.io/github/followers/vyto1112?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=vyto1112.vyto1112)
 
    
  Introduce my name is Devito Aldiga Fitra usually called Vito.
