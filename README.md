@@ -28,7 +28,7 @@
 <table>
    <td width="50%" valign="top">
     <h3 align="center"> GitHub Status<h3>
-    <p align="center">
+    <p> align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=vyto1112&theme=algolia&column=7&no-frame=true" />
       
     </p>
