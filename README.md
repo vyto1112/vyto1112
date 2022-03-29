@@ -30,20 +30,13 @@
     <h3 align="center"> GitHub Status<h3>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=vyto1112&theme=algolia&column=7&no-frame=true" />
+       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
     </p>
    </td>
       </table></div>
      <br>
    </p>
 <img src="https://imgur.com/rilHVxA.png"/>
-**I'm an early 🐤** 
-
-```text
-🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
-
 
 
 <!-- <p align="center">
