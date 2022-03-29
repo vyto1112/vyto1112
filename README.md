@@ -30,7 +30,7 @@
     <h3 align="center"> GitHub Status<h3>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=vyto1112&theme=algolia&column=7&no-frame=true" />
-       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+      
     </p>
    </td>
       </table></div>
